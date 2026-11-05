@@ -1,0 +1,42 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Compiled Binaries / Executables
+vulp
+attack_process
+new_attack_process
+race_condition
+single_thread_control
+sequential_control
+mutex_synchronized
+a.exe
+*.exe
+*.out
+
+# IDE and System Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
